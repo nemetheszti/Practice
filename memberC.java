@@ -1,6 +1,6 @@
 public class memberC {
     public static void cheer(String parameter){
-         parameter = "Ákos";
+         parameter = "Eszter";
         System.out.println("Cheers!" + parameter);
     }
 }
