@@ -4,9 +4,11 @@ public class Greet {
     }
     public static void greet(){
 
-        System.out.println("Németh Eszter");
-
-        System.out.println("Kulcs Viktor");
+        String param1 = "Németh Eszter";
+      
+        String param2 = "Kulcs Viktor"
+      
+      System.out.println("param1, param2");
 
     }
 }
