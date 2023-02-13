@@ -4,6 +4,6 @@ public class Greet {
     }
 
     public static void greet(){
-        System.out.println("Turner Ákos");
+        System.out.println("Németh Eszter");
     }
 }
