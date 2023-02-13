@@ -8,7 +8,7 @@ public class Greet {
       
         String param2 = "Kulcs Viktor"
       
-      System.out.println("param1, param2");
+      System.out.println("param1, param2");     //valami valtozas
 
     }
 }
